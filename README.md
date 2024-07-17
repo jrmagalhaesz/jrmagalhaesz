@@ -7,7 +7,7 @@
   <h2>about me:</h2>
     <p>I have always been fascinated by technology and the impact it can have on people's lives. I decided to pursue a career in Computer Science to better understand how the technologies that I admire so much work and contribute to significant innovations. I'm at the beginning of my career and I feel excited about evolving and being helpful to the market</p>
 
- <h1>📊 github stats: </h1>
+ <h2>stats:</h2>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jrmagalhaesz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Adriano github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmagalhaesz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
